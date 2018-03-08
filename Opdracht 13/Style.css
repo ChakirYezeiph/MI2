@@ -1,0 +1,21 @@
+html{
+    background-color: green;
+}
+
+h1, h2{
+    color: red;
+    text-align: center;
+}
+
+#panel, #Kader {
+    padding: 5px;
+    text-align: center;
+    background-color: black;
+    color:white;
+    border: solid 5px ;
+}
+
+#panel {
+    padding: 50px;
+    display: none;
+}
